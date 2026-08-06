@@ -31,3 +31,5 @@ print(type(e>f))
 
 student={"name":"ravali","age":20}
 print(type(student))
+
+
